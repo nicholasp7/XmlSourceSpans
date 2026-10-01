@@ -1,0 +1,585 @@
+<miqra
+  work="sumerian-lit.eng.etcsl"
+  book="c222"
+  source-converter="etcsl-xml"
+  kind="verses"
+  lang="english"
+  source-urn="t.2.2.2"
+  source-url="https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.2.2"
+  source-relation="convertedFrom">
+  <book id="c222">
+    <lg type="kirugu" n="A">
+      <p n="1-8" />
+      <l n="1" conf="hi">He has abandoned his cow-pen and has let the breezes haunt his sheepfold.</l>
+      <l n="2" conf="hi">The wild bull has abandoned his cow-pen and has let the breezes haunt his sheepfold.</l>
+      <l n="3" conf="hi">The lord of all the lands has abandoned it and has let the breezes haunt his sheepfold.</l>
+      <l n="4" conf="hi"><divNm>Enlil</divNm> has abandoned the shrine <placeName type="SN">Nibru</placeName> and has let the breezes haunt his sheepfold.</l>
+      <l n="5" conf="hi">His wife <divNm>Ninlil</divNm> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="6" conf="hi"><divNm>Ninlil</divNm> has abandoned that house, the <placeName type="TN">Ki-ur</placeName>, and has let the breezes haunt her sheepfold.</l>
+      <l n="7" conf="hi">The queen of <placeName type="SN">Keš</placeName> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="8" conf="hi"><divNm>Ninmaḫ</divNm> has abandoned that house <placeName type="SN">Keš</placeName> and has let the breezes haunt her sheepfold.</l>
+      <p n="9-18" />
+      <l n="9" conf="hi">She of <placeName type="SN">Isin</placeName> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="10" conf="hi"><divNm>Ninisina</divNm> has abandoned the shrine <placeName type="TN">Egal-maḫ</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="11" conf="hi">The queen of <placeName type="SN">Unug</placeName> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="12" conf="hi"><divNm>Inana</divNm> has abandoned that house <placeName type="SN">Unug</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="13" conf="hi"><divNm>Nanna</divNm> has abandoned <placeName type="SN">Urim</placeName> and has let the breezes haunt his sheepfold.</l>
+      <l n="14" conf="hi"><divNm>Suen</divNm> has abandoned <placeName type="TN">E-kiš-nu-ĝal</placeName> and has let the breezes haunt his sheepfold.</l>
+      <l n="15" conf="hi">His wife <divNm>Ningal</divNm> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="16" conf="hi"><divNm>Ningal</divNm> has abandoned her <placeName type="TN">Agrun-kug</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="17" conf="hi">The wild bull of <placeName type="SN">Eridug</placeName> has abandoned it and has let the breezes haunt his sheepfold.</l>
+      <l n="18" conf="hi"><divNm>Enki</divNm> has abandoned that house <placeName type="SN">Eridug</placeName> and has let the breezes haunt his sheepfold.</l>
+      <p n="18A-26" />
+      <l n="18" letter="a" conf="hi"><ref id="t222.r1">……</ref><note id="t222.n2" lang="eng" target="t222.r1">partially preserved name of a goddess</note> has abandoned that house <placeName type="SN">Larag</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="19" conf="hi"><divNm>Šara</divNm> has abandoned <placeName type="TN">E-maḫ</placeName> and has let the breezes haunt his sheepfold.</l>
+      <l n="20" conf="hi"><divNm>Ud-saḫara</divNm> has abandoned that house <placeName type="SN">Umma</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="21" conf="hi"><divNm>Bau</divNm> has abandoned <placeName type="SN">Iri-kug</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="22" conf="hi">She has abandoned her flooded chamber and has let the breezes haunt her sheepfold.</l>
+      <l n="23" conf="hi">Her son <divNm>Ab-Bau</divNm> has abandoned it and has let the breezes haunt his sheepfold.</l>
+      <l n="24" conf="hi"><divNm>Ab-Bau</divNm> has abandoned <placeName type="TN">Ma-gu-ena</placeName> and has let the breezes haunt his sheepfold.</l>
+      <l n="25" conf="hi">The protective goddess of the holy house has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <p n="26-34" />
+      <l n="26" conf="hi">The protective goddess has abandoned <placeName type="TN">E-tar-sirsir</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="27" conf="hi">The mother of <placeName type="SN">Lagaš</placeName> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="28" conf="hi"><divNm>Ĝatumdug</divNm> has abandoned that house <placeName type="SN">Lagaš</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="29" conf="hi">She of <placeName type="SN">Niĝin</placeName> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="30" conf="hi">The great queen has abandoned that house <placeName type="SN">Sirara</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="31" conf="hi">She of <placeName type="SN">Kinirša</placeName> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="32" conf="hi"><divNm>Dumuzid-abzu</divNm> has abandoned that house <placeName type="SN">Kinirša</placeName> and has let the breezes haunt her sheepfold.</l>
+      <l n="33" conf="hi">She of <placeName type="SN">Gu-aba</placeName> has abandoned it and has let the breezes haunt her sheepfold.</l>
+      <l n="34" conf="hi"><divNm>Ninmarki</divNm> has abandoned the shrine <placeName type="SN">Gu-aba</placeName> and has let the breezes haunt her sheepfold.</l>
+      <trailer place="rubric" type="kirugu" />
+      <p n="35" />
+      <l n="35" conf="hi">1st <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="B">
+      <p n="36-37" />
+      <l n="36" conf="hi">She has let the breeze haunt her sheepfold, she groans grievously over it.</l>
+      <l n="37" conf="hi">O cow, your lowing no longer fills the byre, the cow-pen no longer brings joy (?) to the prince.</l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="38" />
+      <l n="38" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="C">
+      <p n="39-46" />
+      <l n="39" conf="hi">O city, the lament is bitter, the lament made for you.</l>
+      <l n="40" conf="hi">Your lament is bitter, O city, the lament made for you.</l>
+      <l n="41" conf="hi">In his righteous destroyed city its lament is bitter.</l>
+      <l n="42" conf="hi">In his righteous destroyed <placeName type="SN">Urim</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="43" conf="hi">Your lament is bitter, O city, the lament made for you.</l>
+      <l n="44" conf="hi">In his destroyed <placeName type="SN">Urim</placeName> its lament is bitter.</l>
+      <l n="45" conf="hi">How long will your bitter lament grieve your lord who weeps?</l>
+      <l n="46" conf="hi">How long will your bitter lament grieve <divNm>Nanna</divNm> who weeps?</l>
+      <p n="47-55" />
+      <l n="47" conf="hi">O brick-built <placeName type="SN">Urim</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="48" conf="hi">O <placeName type="TN">E-kiš-nu-ĝal</placeName>, your lament is bitter, the lament made for you.</l>
+      <l n="49" conf="hi">O shrine <placeName type="TN">Agrun-kug</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="50" conf="hi">O great place <placeName type="TN">Ki-ur</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="51" conf="hi">O shrine <placeName type="SN">Nibru</placeName>, city, the lament is bitter, the lament made for you.</l>
+      <l n="52" conf="hi">O brick-built <placeName type="TN">E-kur</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="53" conf="hi">O <placeName type="TN">Ĝa-ĝiš-šua</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="54" conf="hi">O <placeName type="TN">Ubšu-unkena</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="55" conf="hi">O brick-built <placeName type="SN">Iri-kug</placeName>, the lament is bitter, the lament made for you.</l>
+      <p n="56-63" />
+      <l n="56" conf="hi">O <placeName type="TN">E-tar-sirsir</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="57" conf="hi">O <placeName type="TN">Ma-gu-ena</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="58" conf="hi">O brick-built <placeName type="SN">Isin</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="59" conf="hi">O shrine <placeName type="TN">Egal-maḫ</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="60" conf="hi">O brick-built <placeName type="SN">Unug</placeName>, the lament is bitter, the lament made for you.</l>
+      <l n="61" conf="hi">O brick-built <divNm>Eridug</divNm>, the lament is bitter, the lament made for you.</l>
+      <l n="62" conf="hi">How long will your bitter lament grieve your lord who weeps?</l>
+      <l n="63" conf="hi">How long will your bitter lament grieve <divNm>Nanna</divNm> who weeps?</l>
+      <p n="64-71" />
+      <l n="64" conf="hi">O city, your name exists but you have been destroyed.</l>
+      <l n="65" conf="hi">O city, your wall rises high but your Land has perished.</l>
+      <l n="66" conf="hi">O my city, like an innocent ewe your lamb has been torn from you.</l>
+      <l n="67" conf="hi">O <placeName type="SN">Urim</placeName>, like an innocent goat your kid has perished.</l>
+      <l n="68" conf="med">O city,</l>
+      <l n="69" conf="med">your rites have been alienated from you, your powers have been changed into alien powers.</l>
+      <l n="70" conf="hi">How long will your bitter lament grieve your lord who weeps?</l>
+      <l n="71" conf="hi">How long will your bitter lament grieve <divNm>Nanna</divNm> who weeps?</l>
+      <trailer place="rubric" type="kirugu" />
+      <p n="72" />
+      <l n="72" conf="hi">2nd <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="D">
+      <p n="73-74" />
+      <l n="73" conf="hi">In his righteous destroyed city its lament is bitter.</l>
+      <l n="74" conf="hi">In his destroyed <placeName type="SN">Urim</placeName> its lament is bitter.</l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="75" />
+      <l n="75" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="E">
+      <p n="76-84" />
+      <l n="76" conf="hi">Together with the lord whose house had been devastated, his city was given over to tears.</l>
+      <l n="77" conf="med">Together with <divNm>Nanna</divNm> whose Land had perished,</l>
+      <l n="78" conf="med"><placeName type="SN">Urim</placeName> joined the lament.</l>
+      <l n="79" conf="med">The good woman, to disquiet the lord concerning his city,</l>
+      <l n="80" conf="med"><divNm>Ningal</divNm>, to give him no rest concerning his Land,</l>
+      <l n="81" conf="med">approached him for the sake of his city -- bitterly she weeps.</l>
+      <l n="82" conf="hi">She approached the lord for the sake of his house -- bitterly she weeps.</l>
+      <l n="83" conf="hi">She approached him for the sake of his devastated city -- bitterly she weeps.</l>
+      <l n="84" conf="hi">She approached him for the sake of his devastated house -- before him she makes its bitter lament.</l>
+      <p n="85-94" />
+      <l n="85" conf="med">The woman, after she had composed her song (?) for the tearful <sumer>balaĝ</sumer> instrument,</l>
+      <l n="86" conf="med">herself utters softly a lamentation for the silent house:</l>
+      <l n="87" conf="hi"><q id="t222.q1" who="Ningal" part="I">The storm that came to be -- its lamentation hangs heavy on me.</q></l>
+      <l n="88" conf="med"><q id="t222.q1" who="Ningal" part="M">Raging about because of the storm,</q></l>
+      <l n="89" conf="med"><q id="t222.q1" who="Ningal" part="M">I am the woman for whom the storm came to be.</q></l>
+      <l n="90" conf="hi"><q id="t222.q1" who="Ningal" part="M">The storm that came to be -- its lamentation hangs heavy on me.</q></l>
+      <l n="91" conf="med"><q id="t222.q1" who="Ningal" part="M">The bitter storm having come to be for me during the day,</q></l>
+      <l n="92" conf="med"><q id="t222.q1" who="Ningal" part="M">I trembled on account of that day</q></l>
+      <l n="93" conf="med"><q id="t222.q1" who="Ningal" part="M">but I did not flee before the day's violence.</q></l>
+      <l n="94" conf="hi"><q id="t222.q1" who="Ningal" part="F">Because of this debilitating storm I could not see a good day for my rule, not one good day for my rule.</q></l>
+      <p n="95-100A" />
+      <l n="95" conf="med"><q id="t222.q2" part="I">The bitter lament having come to be for me during the night,</q></l>
+      <l n="96" conf="med"><q id="t222.q2" part="M">I trembled on account of that night</q></l>
+      <l n="97" conf="med"><q id="t222.q2" part="M">but I did not flee before the night's violence.</q></l>
+      <l n="98" conf="hi"><q id="t222.q2" part="M">The awesomeness of this storm, destructive as the flood, truly hangs heavy on me.</q></l>
+      <l n="99" conf="hi"><q id="t222.q2" part="M">Because of its existence, in my nightly sleeping place, even in my nightly sleeping place truly there was no peace for me.</q></l>
+      <l n="100" conf="med"><q id="t222.q2" part="M">Nor, because of this debilitating storm, was the quiet of my sleeping place, not even the quiet of my sleeping place, allowed to me.</q></l>
+      <l n="100" letter="a" conf="med"><q id="t222.q2" part="M">Truly I did not forsake my Land.</q></l>
+      <p n="101-111" />
+      <l n="101" conf="med"><q id="t222.q3" part="I">Because there was bitterness in my Land,</q></l>
+      <l n="102" conf="med"><q id="t222.q3" part="M">I trudged the earth like a cow for its calf.</q></l>
+      <l n="103" conf="med"><q id="t222.q3" part="M">My Land was not granted succcess.</q></l>
+      <l n="104" conf="med"><q id="t222.q3" part="M">Because there was bitter distress in my city,</q></l>
+      <l n="105" conf="med"><q id="t222.q3" part="M">I beat my wings like a bird of heaven</q></l>
+      <l n="106" conf="med"><q id="t222.q3" part="M">and flew to my city;</q></l>
+      <l n="107" conf="med"><q id="t222.q3" part="M">and my city was destroyed in its foundations;</q></l>
+      <l n="108" conf="med"><q id="t222.q3" part="M">and <placeName type="SN">Urim</placeName> perished where it lay.</q></l>
+      <l n="109" conf="hi"><q id="t222.q3" part="M">Because the hand of the storm appeared above, I screamed and cried to it</q></l>
+      <l n="110" conf="hi"><q id="t222.q3" part="M"><q who="Ningal">Return, O storm, to the plain</q>.</q></l>
+      <l n="111" conf="hi"><q id="t222.q3" part="F">The storm's breast did not rise.</q></l>
+      <p n="112-122" />
+      <l n="112" conf="med"><q id="t222.q4" part="I">To me, the woman, in the <placeName type="TN">Agrun-kug</placeName>,</q></l>
+      <l n="113" conf="med"><q id="t222.q4" part="M">my house of queenship, they did not grant a reign of distant days.</q></l>
+      <l n="114" conf="med"><q id="t222.q4" part="M">Indeed they established weeping and lamentation for me.</q></l>
+      <l n="115" conf="med"><q id="t222.q4" part="M">As for the house which used to be where the spirit of the black-headed people was soothed,</q></l>
+      <l n="116" conf="med"><q id="t222.q4" part="M">instead of its festivals wrath and terror indeed multiply.</q></l>
+      <l n="117" to="120" conf="lo"><q id="t222.q4" part="M">Because of this debilitating storm, depression, and lament and bitterness, lament and bitterness have been brought into my house, the favourable place, my devastated righteous house upon which no eye had been cast.</q></l>
+      <l n="121" to="122" conf="lo"><q id="t222.q4" part="F">My house founded by the righteous was pushed over on its side like a garden fence.</q></l>
+      <p n="123-132" />
+      <l n="123" conf="med"><q id="t222.q5" part="I">For <placeName type="TN">E-kiš-nu-ĝal</placeName>,</q></l>
+      <l n="124" conf="med"><q id="t222.q5" part="M">my house of royalty,</q></l>
+      <l n="125" conf="med"><q id="t222.q5" part="M">the good house,</q></l>
+      <l n="126" conf="med"><q id="t222.q5" part="M">my house which has been given over to tears, they granted to me as its lot and share: its building, falsely, and its perishing, truly.</q></l>
+      <l n="127" conf="med"><q id="t222.q5" part="M">Wind and rain have been made to fall on it, as onto a tent, a shelter on the denuded harvest ground,</q></l>
+      <l n="128" conf="med"><q id="t222.q5" part="M">as onto a shelter on the denuded harvest ground.</q></l>
+      <l n="129" conf="med"><q id="t222.q5" part="M"><placeName type="SN">Urim</placeName>,</q></l>
+      <l n="130" conf="med"><q id="t222.q5" part="M">my all-surpassing chamber, the house and the smitten city, all have been uprooted.</q></l>
+      <l n="131" conf="hi"><q id="t222.q5" part="M">Like a shepherd's sheepfold it has been uprooted.</q></l>
+      <l n="132" conf="hi"><q id="t222.q5" part="F">The swamp has swallowed my possessions accumulated in the city.</q></l>
+      <linkGrp><link targType="q" targets="t222.q1 t222.q2 t222.q3 t222.q4 t222.q5" /></linkGrp>
+      <trailer place="rubric" type="kirugu" />
+      <p n="133" />
+      <l n="133" conf="hi">3rd <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="F">
+      <p n="134" />
+      <l n="134" conf="hi"><placeName type="SN">Urim</placeName> has been given over to tears.</l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="135" />
+      <l n="135" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="G">
+      <p n="136-143" />
+      <l n="136" conf="med"><q id="t222.q6" who="Ningal" part="I">On that day, when such a storm had pounded,</q></l>
+      <l n="137" conf="med"><q id="t222.q6" who="Ningal" part="M">when in the presence of the queen her city had been destroyed,</q></l>
+      <l n="138" conf="med"><q id="t222.q6" who="Ningal" part="M">on that day, when such a storm had been created,</q></l>
+      <l n="139" conf="med"><q id="t222.q6" who="Ningal" part="M">when they had pronounced the utter destruction of my city,</q></l>
+      <l n="140" conf="med"><q id="t222.q6" who="Ningal" part="M">when they had pronounced the utter destruction of <placeName type="SN">Urim</placeName>,</q></l>
+      <l n="141" conf="med"><q id="t222.q6" who="Ningal" part="M">when they had directed that its people be killed,</q></l>
+      <l n="142" conf="med"><q id="t222.q6" who="Ningal" part="M">on that day I did not abandon my city,</q></l>
+      <l n="143" conf="med"><q id="t222.q6" who="Ningal" part="F">I did not forsake my land.</q></l>
+      <p n="144-150" />
+      <l n="144" conf="hi"><q id="t222.q7" part="I">Truly I shed my tears before <divNm>An</divNm>.</q></l>
+      <l n="145" conf="hi"><q id="t222.q7" part="M">Truly I myself made supplication to <divNm>Enlil</divNm>.</q></l>
+      <l n="146" conf="hi"><q id="t222.q7" part="M"><q who="Ningal" toWhom="An Enlil">Let not my city be destroyed,</q> I implored them.</q></l>
+      <l n="147" conf="hi"><q id="t222.q7" part="M"><q who="Ningal" toWhom="An Enlil">Let not <placeName type="SN">Urim</placeName> be destroyed,</q> I implored them.</q></l>
+      <l n="148" conf="med"><q id="t222.q7" part="M"><q who="Ningal" toWhom="An Enlil">Let not its people perish,</q> I implored them.</q></l>
+      <l n="149" conf="hi"><q id="t222.q7" part="M">But <divNm>An</divNm> did not change that word.</q></l>
+      <l n="150" conf="hi"><q id="t222.q7" part="F"><divNm>Enlil</divNm> did not soothe my heart with an <q who="Enlil">It is good -- so be it</q>.</q></l>
+      <p n="151-160" />
+      <l n="151" conf="med"><q id="t222.q8" part="I">A second time, when the council had settled itself in the pre-eminent place,</q></l>
+      <l n="152" conf="med"><q id="t222.q8" part="M">and the <divNm>Anuna</divNm> had seated themselves to ratify decisions,</q></l>
+      <l n="153" conf="med"><q id="t222.q8" part="M">I prostrated (?) myself and stretched out my arms.</q></l>
+      <l n="154" conf="hi"><q id="t222.q8" part="M">Truly I shed my tears before <divNm>An</divNm>.</q></l>
+      <l n="155" conf="hi"><q id="t222.q8" part="M">Truly I myself made supplication to <divNm>Enlil</divNm>.</q></l>
+      <l n="156" conf="hi"><q id="t222.q8" part="M"><q who="Ningal" toWhom="An Enlil">Let not my city be destroyed,</q> I implored them.</q></l>
+      <l n="157" conf="hi"><q id="t222.q8" part="M"><q who="Ningal" toWhom="An Enlil">Let not <placeName type="SN">Urim</placeName> be destroyed,</q> I implored them.</q></l>
+      <l n="158" conf="med"><q id="t222.q8" part="M"><q who="Ningal" toWhom="An Enlil">Let not its people perish,</q> I implored them.</q></l>
+      <l n="159" conf="med"><q id="t222.q8" part="M">But <divNm>An</divNm> did not change that word.</q></l>
+      <l n="160" conf="hi"><q id="t222.q8" part="F"><divNm>Enlil</divNm> did not soothe my heart with an <q who="Enlil">It is good -- so be it</q>.</q></l>
+      <p n="161-168" />
+      <l n="161" conf="hi"><q id="t222.q9" part="I">They gave instructions that my city should be utterly destroyed.</q></l>
+      <l n="162" conf="hi"><q id="t222.q9" part="M">They gave instructions that <placeName type="SN">Urim</placeName> should be utterly destroyed.</q></l>
+      <l n="163" conf="hi"><q id="t222.q9" part="M">They decreed its destiny that its people should be killed.</q></l>
+      <l n="164" conf="med"><q id="t222.q9" part="M">In return for the speech (?) which I had given them,</q></l>
+      <l n="165" conf="med"><q id="t222.q9" part="M">they both bound me together with my city</q></l>
+      <l n="166" conf="med"><q id="t222.q9" part="M">and also bound my <placeName type="SN">Urim</placeName> together with me.</q></l>
+      <l n="167" conf="med"><q id="t222.q9" part="M"><divNm>An</divNm> is not one to change his command,</q></l>
+      <l n="168" conf="med"><q id="t222.q9" part="F">and <divNm>Enlil</divNm> does not alter what he has uttered.</q></l>
+      <linkGrp><link targType="q" targets="t222.q6 t222.q7 t222.q8 t222.q9" /></linkGrp>
+      <trailer place="rubric" type="kirugu" />
+      <p n="169" />
+      <l n="169" conf="hi">4th <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="H">
+      <p n="170" />
+      <l n="170" conf="hi">Her city has been destroyed in her presence, her powers have been alienated from her.</l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="171" />
+      <l n="171" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="I">
+      <p n="172-178" />
+      <l n="172" conf="hi"><divNm>Enlil</divNm> called the storm -- the people groan.</l>
+      <l n="173" conf="hi">He brought the storm of abundance away from the Land -- the people groan.</l>
+      <l n="174" conf="hi">He brought the good storm away from <placeName type="GN">Sumer</placeName> -- the people groan.</l>
+      <l n="175" conf="hi">He issued directions to the evil storm -- the people groan.</l>
+      <l n="176" conf="hi">He entrusted it to <persName type="PN">Kin-gal-uda</persName>, the keeper of the storm.</l>
+      <l n="177" conf="hi">He called upon the storm that annihilates the Land -- the people groan.</l>
+      <l n="178" conf="hi">He called upon the evil gales -- the people groan.</l>
+      <p n="179-187" />
+      <l n="179" conf="hi"><divNm>Enlil</divNm> brought <divNm>Gibil</divNm> as his aid.</l>
+      <l n="180" conf="hi">He called the great storm of heaven -- the people groan.</l>
+      <l n="181" conf="hi">The great storm howls above -- the people groan.</l>
+      <l n="182" conf="hi">The storm that annihilates the Land roars below -- the people groan.</l>
+      <l n="183" conf="hi">The evil wind, like a rushing torrent, cannot be restrained.</l>
+      <l n="184" conf="hi">The weapons in the city smash heads and consume indiscriminately.</l>
+      <l n="185" conf="hi">The storm whirled gloom around the base of the horizon -- the people groan.</l>
+      <l n="186" conf="hi">In front of the storm, heat blazes -- the people groan.</l>
+      <l n="187" conf="hi">A fiery glow burns with the raging storm.</l>
+      <p n="188-191" />
+      <l n="188" conf="hi">After the haze had lifted at noon, he made fires blaze.</l>
+      <l n="189" conf="hi">He locked up the day and the rising of the bright sun together with the good storm.</l>
+      <l n="190" conf="hi">In the Land he did not let the bright sun rise; it shone like the evening star.</l>
+      <l n="191" conf="hi">In the delightful night, the time when coolness sets in, he redoubled the south wind.</l>
+      <p n="192-196" />
+      <l n="192" conf="hi">The scorching potsherds made the dust glow (?) -- the people groan.</l>
+      <l n="193" conf="hi">He swept the winds over the black-headed people -- the people groan.</l>
+      <l n="194" conf="hi"><placeName type="GN">Sumer</placeName> was overturned by a snare -- the people groan.</l>
+      <l n="195" conf="hi">It attacked (?) the Land and devoured it completely.</l>
+      <l n="196" conf="hi">Tears cannot influence the bitter storm -- the people groan.</l>
+      <p n="197-203" />
+      <l n="197" conf="hi">The reaping storm dragged across the Land.</l>
+      <l n="198" conf="hi">Like a flood storm it completely destroyed the city.</l>
+      <l n="199" conf="hi">The storm that annihilates the Land silenced the city.</l>
+      <l n="200" conf="hi">The storm that will make anything vanish came doing evil.</l>
+      <l n="201" conf="hi">The storm blazing like fire performed its task upon the people.</l>
+      <l n="202" conf="med">The storm ordered by <divNm>Enlil</divNm> in hate, the storm which wears away the Land,</l>
+      <l n="203" conf="med">covered <placeName type="SN">Urim</placeName> like a garment, was spread out over it like linen.</l>
+      <trailer place="rubric" type="kirugu" />
+      <p n="204" />
+      <l n="204" conf="hi">5th <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="J">
+      <p n="205" />
+      <l n="205" conf="hi">The storm, like a lion, has attacked unceasingly -- the people groan.</l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="206" />
+      <l n="206" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="K">
+      <p n="207-217" />
+      <l n="207" conf="hi">Then the storm was removed from the city, that city reduced to ruin mounds.</l>
+      <l n="208" conf="hi">It was removed from Father <divNm>Nanna's</divNm> city reduced to ruin mounds -- the people groan.</l>
+      <l n="209" conf="hi">Then, the storm was taken from the Land -- the people groan.</l>
+      <l n="209" letter="a" conf="hi">The good storm was taken from <placeName type="GN">Sumer</placeName> -- the people groan.</l>
+      <l n="210" conf="hi">Its people littered its outskirts just as if they might have been broken potsherds.</l>
+      <l n="211" conf="hi">Breaches had been made in its walls -- the people groan.</l>
+      <l n="212" conf="hi">On its lofty city-gates where walks had been taken, corpses were piled.</l>
+      <l n="213" conf="hi">On its boulevards where festivals had been held, heads lay scattered (?).</l>
+      <l n="214" conf="hi">In all its streets where walks had been taken, corpses were piled.</l>
+      <l n="215" conf="hi">In its places where the dances of the Land had taken place, people were stacked in heaps.</l>
+      <l n="216" conf="hi">They made the blood of the Land flow down the wadis like copper or tin.</l>
+      <l n="217" conf="hi">Its corpses, like fat left in the sun, melted away of themselves.</l>
+      <p n="218-229" />
+      <l n="218" conf="hi">The heads of its men slain by the axe were not covered with a cloth.</l>
+      <l n="219" conf="hi">Like a gazelle caught in a trap, their mouths bit the dust.</l>
+      <l n="220" conf="hi">Men struck down by the spear were not bound with bandages.</l>
+      <l n="221" conf="hi">As if in the place where their mothers had laboured, they lay in their own blood.</l>
+      <l n="222" conf="hi">Its men who were finished off by the battle-mace were not bandaged with new (?) cloth.</l>
+      <l n="223" conf="hi">Although they were not drunk with strong drink, their necks drooped on their shoulders.</l>
+      <l n="224" conf="hi">He who stood up to the weapon was crushed by the weapon -- the people groan.</l>
+      <l n="225" conf="hi">He who ran away from it was overwhelmed (?) by the storm -- the people groan.</l>
+      <l n="226" conf="hi">The weak and the strong of <placeName type="SN">Urim</placeName> perished from hunger.</l>
+      <l n="227" conf="hi">Mothers and fathers who did not leave their houses were consumed by fire.</l>
+      <l n="228" conf="hi">The little ones lying in their mothers' arms were carried off like fish by the waters.</l>
+      <l n="229" conf="hi">Among the nursemaids with their strong embrace, the embrace was pried open.</l>
+      <p n="230-240" />
+      <l n="230" conf="hi">The Land's judgment disappeared -- the people groan.</l>
+      <l n="231" conf="hi">The Land's counsel was swallowed by a swamp -- the people groan.</l>
+      <l n="232" conf="hi">The mother absconded before her child's eyes -- the people groan.</l>
+      <l n="233" conf="hi">The father turned away from his child -- the people groan.</l>
+      <l n="234" conf="hi">In the city the wife was abandoned, the child was abandoned, possessions were scattered about.</l>
+      <l n="235" conf="hi">The black-headed people were carried off from their strongholds.</l>
+      <l n="236" conf="hi">Its queen like a bird in fright departed from her city.</l>
+      <l n="237" conf="hi"><divNm>Ningal</divNm> like a bird in fright departed from her city.</l>
+      <l n="238" conf="hi">All the treasures accumulated in the Land were defiled.</l>
+      <l n="239" conf="hi">In all the storehouses abounding in the Land fires were kindled.</l>
+      <l n="240" conf="hi">In its ponds <divNm>Gibil</divNm>, the purifier, relentlessly did his work.</l>
+      <p n="241-249" />
+      <l n="241" to="242" conf="lo">The good house of the lofty untouchable mountain, <placeName type="TN">E-kiš-nu-ĝal</placeName>, was entirely devoured by large axes.</l>
+      <l n="243" conf="hi">The people of <placeName type="GN">Šimaški</placeName> and <placeName type="GN">Elam</placeName>, the destroyers, counted its worth as only thirty shekels.</l>
+      <l n="244" conf="med">They broke up the good house with pickaxes.</l>
+      <l n="245" conf="hi">They reduced the city to ruin mounds.</l>
+      <l n="246" conf="hi">Its queen cried, <q who="Ningal">Alas, my city</q>, cried, <q who="Ningal">Alas, my house</q>.</l>
+      <l n="247" conf="hi"><divNm>Ningal</divNm> cried, <q who="Ningal">Alas, my city,</q> cried, <q who="Ningal" part="I">Alas, my house.</q></l>
+      <l n="248" conf="hi"><q who="Ningal" part="M">As for me, the woman, both my city has been destroyed and my house has been destroyed.</q></l>
+      <l n="249" conf="hi"><q who="Ningal" part="F">O <divNm>Nanna</divNm>, the shrine <placeName type="SN">Urim</placeName> has been destroyed and its people have been killed.</q></l>
+      <trailer place="rubric" type="kirugu" />
+      <p n="250" />
+      <l n="250" conf="hi">6th <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="L">
+      <p n="251-252" />
+      <l n="251" conf="hi">In her cow-pen, in her sheepfold the woman utters bitter words:</l>
+      <l n="252" conf="hi"><q who="Ningal">The city has been destroyed by the storm.</q></l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="253" />
+      <l n="253" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="M">
+      <p n="254-264" />
+      <l n="254" conf="hi">Mother <divNm>Ningal</divNm>, like an enemy, stands outside her city.</l>
+      <l n="255" conf="hi">The woman laments bitterly over her devastated house.</l>
+      <l n="256" conf="hi">Over her devastated shrine <placeName type="SN">Urim</placeName>, the princess bitterly declares:</l>
+      <l n="257" conf="hi"><q id="t222.q10" who="Ningal" part="I"><divNm>An</divNm> has indeed cursed my city, my city has been destroyed before me.</q></l>
+      <l n="258" conf="hi"><q id="t222.q10" who="Ningal" part="M"><divNm>Enlil</divNm> has indeed transformed my house, it has been smitten by pickaxes.</q></l>
+      <l n="259" conf="hi"><q id="t222.q10" who="Ningal" part="M">On my ones coming from the south he hurled fire. Alas, my city has indeed been destroyed before me.</q></l>
+      <l n="260" conf="hi"><q id="t222.q10" who="Ningal" part="M">On my ones coming from the highlands <divNm>Enlil</divNm> hurled flames.</q></l>
+      <l n="261" conf="hi"><q id="t222.q10" who="Ningal" part="M">Outside the city, the outer city was destroyed before me -- I shall cry <q who="Ningal">Alas, my city</q>.</q></l>
+      <l n="262" conf="hi"><q id="t222.q10" who="Ningal" part="M">Inside the city, the inner city was destroyed before me -- I shall cry <q who="Ningal">Alas, my city</q>.</q></l>
+      <l n="263" conf="hi"><q id="t222.q10" who="Ningal" part="M">My houses of the outer city were destroyed -- I shall cry <q who="Ningal">Alas, my houses</q>.</q></l>
+      <l n="264" conf="hi"><q id="t222.q10" who="Ningal" part="F">My houses of the inner city were destroyed -- I shall cry <q who="Ningal">Alas, my houses</q>.</q></l>
+      <p n="265-274" />
+      <l n="265" conf="hi"><q id="t222.q11" part="I">My city no longer multiplies for me like good ewes, its good shepherd is gone.</q></l>
+      <l n="266" conf="hi"><q id="t222.q11" part="M"><placeName type="SN">Urim</placeName> no longer multiplies for me like good ewes, its shepherd boy is gone.</q></l>
+      <l n="267" conf="hi"><q id="t222.q11" part="M">My bull no longer crouches in its cow-pen, its herdsman is gone.</q></l>
+      <l n="268" conf="hi"><q id="t222.q11" part="M">My sheep no longer crouch in their fold, their herdsman is gone.</q></l>
+      <l n="269" conf="hi"><q id="t222.q11" part="M">In the river of my city dust has gathered, and the holes of foxes have been dug there.</q></l>
+      <l n="270" conf="hi"><q id="t222.q11" part="M">In its midst no flowing water is carried, its tax-collector is gone.</q></l>
+      <l n="271" conf="hi"><q id="t222.q11" part="M">In the fields of my city there is no grain, their farmer is gone.</q></l>
+      <l n="272" conf="hi"><q id="t222.q11" part="M">My fields, like fields from which the hoe has been kept away (?), have grown tangled (?) weeds.</q></l>
+      <l n="273" conf="hi"><q id="t222.q11" part="M">My orchards and gardens that produced abundant syrup and wine have grown mountain thornbushes.</q></l>
+      <l n="274" conf="hi"><q id="t222.q11" part="F">My plain that used to be covered in its luxurious verdure has become cracked (?) like a kiln.</q></l>
+      <p n="275-285" />
+      <l n="275" conf="hi"><q id="t222.q12" part="I">My possessions, like a flock of rooks rising up, have risen in flight -- I shall cry</q></l>
+      <l n="276" conf="med"><q id="t222.q12" part="M"><q who="Ningal">O my possessions</q>. He who came from the south has carried my possessions off to the south -- I shall cry</q></l>
+      <l n="277" conf="med"><q id="t222.q12" part="M"><q who="Ningal">O my possessions</q>. He who came from the highlands has carried my possessions off to the highlands -- I shall cry</q></l>
+      <l n="278" conf="hi"><q id="t222.q12" part="M"><q who="Ningal">O my possessions</q>. My silver, gems and lapis lazuli have been scattered about -- I shall cry</q></l>
+      <l n="279" conf="med"><q id="t222.q12" part="M"><q who="Ningal">O my possessions</q>. The swamp has swallowed my treasures -- I shall cry</q></l>
+      <l n="280" conf="hi"><q id="t222.q12" part="M"><q who="Ningal">O my possessions</q>. Men ignorant of silver have filled their hands with my silver.</q></l>
+      <l n="281" conf="med"><q id="t222.q12" part="M">Men ignorant of gems have fastened my gems around their necks.</q></l>
+      <l n="282" conf="hi"><q id="t222.q12" part="M">My small birds and fowl have flown away -- I shall say <q who="Ningal">Alas, my city</q>.</q></l>
+      <l n="283" conf="hi"><q id="t222.q12" part="M">My slave-girls and children have been carried off by boat -- I shall say <q who="Ningal">Alas, my city</q>.</q></l>
+      <l n="284" conf="hi"><q id="t222.q12" part="M">Woe is me, my slave-girls bear strange emblems in a strange city.</q></l>
+      <l n="285" conf="hi"><q id="t222.q12" part="F">My young men mourn in a desert they do not know.</q></l>
+      <p n="286-291" />
+      <l n="286" conf="med"><q id="t222.q13" part="I">Woe is me, my city which no longer exists -- I am not its queen.</q></l>
+      <l n="287" conf="hi"><q id="t222.q13" part="M"><divNm>Nanna</divNm>, <placeName type="SN">Urim</placeName> which no longer exists -- I am not its owner.</q></l>
+      <l n="288" conf="med"><q id="t222.q13" part="M">I am the good woman whose house has been made into ruins, whose city has been destroyed,</q></l>
+      <l n="289" conf="med"><q id="t222.q13" part="M">in place of whose city a strange city has been built.</q></l>
+      <l n="290" conf="med"><q id="t222.q13" part="M">I am <divNm>Ningal</divNm> whose city has been made into ruins, whose house has been destroyed,</q></l>
+      <l n="291" conf="med"><q id="t222.q13" part="F">in place of whose house a strange house has been built.</q></l>
+      <p n="292-298" />
+      <l n="292" conf="hi"><q id="t222.q14" part="I">Woe is me, the city has been destroyed, my house too has been destroyed.</q></l>
+      <l n="293" conf="hi"><q id="t222.q14" part="M"><divNm>Nanna</divNm>, the shrine <placeName type="SN">Urim</placeName> has been destroyed, its people killed.</q></l>
+      <l n="294" conf="hi"><q id="t222.q14" part="M">Woe is me, where can I sit, where can I stand?</q></l>
+      <l n="295" conf="hi"><q id="t222.q14" part="M">Woe is me, in place of my city a strange house is being erected.</q></l>
+      <l n="296" conf="hi"><q id="t222.q14" part="M">I am the good woman in place of whose house a strange city is being built.</q></l>
+      <l n="297" conf="hi"><q id="t222.q14" part="M">Upon its removal from its place, from the plain, I shall say <q who="Ningal">Alas, my people</q>.</q></l>
+      <l n="298" conf="hi"><q id="t222.q14" part="F">Upon my city's removal from <placeName type="SN">Urim</placeName>, I shall say <q who="Ningal">Alas, my house</q>.</q></l>
+      <linkGrp><link targType="q" targets="t222.q10 t222.q11 t222.q12 t222.q13 t222.q14" /></linkGrp>
+      <p n="299-309" />
+      <l n="299" conf="hi">The woman tears at her hair as if it were rushes.</l>
+      <l n="300" conf="hi">She beats the holy <sumer>ub</sumer> drum at her chest, she cries <q who="Ningal">Alas, my city</q>.</l>
+      <l n="301" conf="hi">Her eyes well with tears, she weeps bitterly:</l>
+      <l n="302" conf="med"><q id="t222.q15" who="Ningal" part="I">Woe is me, my city which no longer exists -- I am not its queen.</q></l>
+      <l n="303" conf="hi"><q id="t222.q15" who="Ningal" part="M"><divNm>Nanna</divNm>, the shrine <placeName type="SN">Urim</placeName> which no longer exists -- I am not its owner.</q></l>
+      <l n="304" conf="hi"><q id="t222.q15" who="Ningal" part="M">Woe is me, I am one whose cow-pen has been torn down, I am one whose cows have been scattered.</q></l>
+      <l n="305" conf="hi"><q id="t222.q15" who="Ningal" part="M">I am <divNm>Ningal</divNm> on whose ewes the weapon has fallen, as in the case of an unworthy herdsman.</q></l>
+      <l n="306" conf="med"><q id="t222.q15" who="Ningal" part="M">Woe is me, I have been exiled from the city, I can find no rest.</q></l>
+      <l n="307" conf="hi"><q id="t222.q15" who="Ningal" part="M">I am <divNm>Ningal</divNm>, I have been exiled from the house, I can find no dwelling place.</q></l>
+      <l n="308" conf="hi"><q id="t222.q15" who="Ningal" part="M">I am sitting as if a stranger with head high in a strange city.</q></l>
+      <l n="309" conf="med"><q id="t222.q15" who="Ningal" part="F">Debt-slaves …… bitterness …….</q></l>
+      <p n="310-320" />
+      <l n="310" conf="hi"><q id="t222.q16" part="I">I am one who, sitting in a debtors prison among its inmates, can make no extravagant claims.</q></l>
+      <l n="311" conf="hi"><q id="t222.q16" part="M">In that place I approached him for the sake of his city -- I weep bitterly.</q></l>
+      <l n="312" conf="hi"><q id="t222.q16" part="M">I approached the lord for the sake of his house -- I weep bitterly.</q></l>
+      <l n="313" conf="hi"><q id="t222.q16" part="M">I approached him for the sake of his destroyed house -- I weep bitterly.</q></l>
+      <l n="314" conf="hi"><q id="t222.q16" part="M">I approached him for the sake of his destroyed city -- I weep bitterly.</q></l>
+      <l n="315" conf="hi"><q id="t222.q16" part="M">Woe is me, I shall say <q who="Ningal">Fate of my city, bitter is the fate of my city</q>.</q></l>
+      <l n="316" conf="hi"><q id="t222.q16" part="M">I the queen shall say <q who="Ningal">O my destroyed house, bitter is the fate of my house</q>.</q></l>
+      <l n="317" conf="med"><q id="t222.q16" part="M">O my brick-built <placeName type="SN">Urim</placeName> which has been flooded,</q></l>
+      <l n="318" conf="med"><q id="t222.q16" part="M">which has been washed away, O my good house, my city which has been reduced to ruin mounds,</q></l>
+      <l n="319" conf="med"><q id="t222.q16" part="M">in the debris of your destroyed righteous house, I shall lie down alongside you.</q></l>
+      <l n="320" conf="hi"><q id="t222.q16" part="F">Like a fallen bull, I will never rise up from your wall (?).</q></l>
+      <p n="321-327" />
+      <l n="321" conf="med"><q id="t222.q17" part="I">Woe is me, untrustworthy was your building, and bitter your destruction.</q></l>
+      <l n="322" conf="hi"><q id="t222.q17" part="M">I am the woman at whose shrine <placeName type="SN">Urim</placeName> the food offerings have been terminated.</q></l>
+      <l n="323" conf="med"><q id="t222.q17" part="M">O my <placeName type="TN">Agrun-kug</placeName>, the all-new house whose charms never sated me,</q></l>
+      <l n="324" conf="med"><q id="t222.q17" part="M">O my city no longer regarded as having been built -- devastated for what reason?</q></l>
+      <l n="325" conf="hi"><q id="t222.q17" part="M">O my house both destroyed and devastated -- devastated for what reason?</q></l>
+      <l n="326" conf="med"><q id="t222.q17" part="M">Nobody at all escaped the force of the storm ordered in hate.</q></l>
+      <l n="327" conf="hi"><q id="t222.q17" part="F">O my house of <divNm>Suen</divNm> in <placeName type="SN">Urim</placeName>, bitter was its destruction.</q></l>
+      <linkGrp><link targType="q" targets="t222.q15 t222.q16 t222.q17" /></linkGrp>
+      <trailer place="rubric" type="kirugu" />
+      <p n="328" />
+      <l n="328" conf="hi">7th <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="N">
+      <p n="329" />
+      <l n="329" conf="hi"><q who="Ningal">Alas, my city, alas, my house.</q></l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="330" />
+      <l n="330" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="O">
+      <p n="331-341" />
+      <l n="331" conf="med">O queen, how is your heart ……! How you have become!</l>
+      <l n="332" conf="hi">O <divNm>Ningal</divNm>, how is your heart ……! How you have become!</l>
+      <l n="333" conf="hi">O good woman whose city has been destroyed, now how do you exist?</l>
+      <l n="334" conf="hi">O <divNm>Ningal</divNm> whose Land has perished, how is your heart ……!</l>
+      <l n="335" conf="hi">After your city has been destroyed, now how do you exist?</l>
+      <l n="336" conf="hi">After your house has been destroyed, how is your heart ……!</l>
+      <l n="337" conf="hi">Your city has become a strange city, now how do you exist?</l>
+      <l n="338" conf="hi">Your house has turned to tears, how is your heart ……!</l>
+      <l n="339" conf="hi">You are not a bird of your city which has been reduced to ruin mounds.</l>
+      <l n="340" conf="med">You cannot live there as a resident in your good house given over to the pickaxe.</l>
+      <l n="341" conf="med">You cannot act as queen of a people led off to slaughter.</l>
+      <p n="342-347" />
+      <l n="342" conf="hi">Your tears have become strange tears, your Land no longer weeps.</l>
+      <l n="343" conf="hi">With no lamentation prayers, it dwells in foreign lands.</l>
+      <l n="344" conf="hi">Your Land like …….</l>
+      <l n="345" conf="hi">Your city has been made into ruins; now how do you exist?</l>
+      <l n="346" conf="hi">Your house has been laid bare, how is your heart ……!</l>
+      <l n="347" conf="hi"><placeName type="SN">Urim</placeName>, the shrine, is haunted by the breezes, now how do you exist?</l>
+      <p n="348-358" />
+      <l n="348" conf="hi">Its <sumer>gudug</sumer> priest no longer walks in his wig, how is your heart ……!</l>
+      <l n="349" conf="med">Its <sumer>en</sumer> priestess no longer lives in the <sumer>ĝipar</sumer>, now how do you exist?</l>
+      <l n="350" conf="med">In the <sumer>uzga</sumer> shrine the priest who cherishes purification rites makes no purification rites for you.</l>
+      <l n="351" conf="hi">Father <divNm>Nanna</divNm>, your <sumer>išib</sumer> priest does not make perfect holy supplications to you.</l>
+      <l n="352" conf="hi">Your <sumer>lumaḫ</sumer> priest does not dress in linen in your holy <sumer>giguna</sumer> shrine.</l>
+      <l n="353" conf="med">Your righteous <sumer>en</sumer> priestess chosen in your ardent heart, she of the <placeName type="TN">E-kiš-nu-ĝal</placeName>,</l>
+      <l n="354" conf="med">does not proceed joyously from the shrine to the <sumer>ĝipar</sumer>.</l>
+      <l n="355" conf="hi">The <sumer>aua</sumer> priests do not celebrate the festivals in your house of festivals.</l>
+      <l n="356" conf="hi">They do not play for you the <sumer>šem</sumer> and <sumer>ala</sumer> instruments which gladden the heart, nor the <sumer>tigi</sumer>.</l>
+      <l n="357" conf="hi">The black-headed people do not bathe during your festivals.</l>
+      <l n="358" conf="med">Like …… mourning has been decreed for them; their appearance has indeed changed.</l>
+      <p n="359-368" />
+      <l n="359" conf="hi">Your song has been turned into weeping before you -- how long will this last?</l>
+      <l n="360" conf="hi">Your <sumer>tigi</sumer> music has been turned into lamentation before you -- how long will this last?</l>
+      <l n="361" conf="hi">Your bull is not brought into its pen, its fat is not prepared for you.</l>
+      <l n="362" conf="hi">Your sheep does not live in its fold, its milk is not made abundant for you.</l>
+      <l n="363" conf="hi">Your fat carrier does not come to you from the cow-pen -- how long will this last?</l>
+      <l n="364" conf="hi">Your milk carrier does not come to you from the sheepfold -- how long will this last?</l>
+      <l n="365" conf="hi">An evildoer has seized your fisherman who was carrying fish -- how long will this last?</l>
+      <l n="366" conf="hi">Lightning carried off your fowler who was carrying birds -- how long will this last?</l>
+      <l n="367" conf="med">The <sumer>teme</sumer> plants grow in the middle of your watercourses which were once suitable for barges,</l>
+      <l n="368" conf="med">and mountain thornbushes grow on your roads which had been constructed for waggons.</l>
+      <p n="369-377" />
+      <l n="369" conf="hi">My queen, your city weeps before you as its mother.</l>
+      <l n="370" conf="hi"><placeName type="SN">Urim</placeName>, like a child lost in a street, seeks a place before you.</l>
+      <l n="371" conf="hi">Your house, like a man who has lost everything, stretches out (?) its hands to you.</l>
+      <l n="372" conf="hi">Your brick-built righteous house, like a human being, cries <q who="Agrun-kug">Where are you?</q>.</l>
+      <l n="373" conf="hi">My queen, you have indeed left the house, you have left the city.</l>
+      <l n="374" conf="hi">How long will you stand aside from your city like an enemy?</l>
+      <l n="375" conf="hi">Mother <divNm>Ningal</divNm>, you confronted your city like an enemy.</l>
+      <l n="376" conf="hi">Although you are a queen who loves her city, you abandoned your sheepfold.</l>
+      <l n="377" conf="hi">Although you are one who cares for her Land, you set it on fire.</l>
+      <p n="378-386" />
+      <l n="378" conf="med">Mother <divNm>Ningal</divNm>, return like a bull to your cattle-pen,</l>
+      <l n="379" conf="med">like a sheep to your fold, like a bull to your cattle-pen of former days, like a sheep to your fold.</l>
+      <l n="380" conf="hi">My queen, like a young child to your room, return to your house.</l>
+      <l n="381" conf="hi">May <divNm>An</divNm>, king of the gods, declare <q who="An">Enough!</q></l>
+      <l n="382" conf="hi">to you. May <divNm>Enlil</divNm>, king of all the lands, decree your fate.</l>
+      <l n="383" conf="med">May he restore your city for you -- exercise its queenship!</l>
+      <l n="384" conf="hi">May he restore <placeName type="SN">Nibru</placeName> for you -- exercise its queenship!</l>
+      <l n="385" conf="hi">May he restore <placeName type="SN">Urim</placeName> for you -- exercise its queenship!</l>
+      <l n="386" conf="hi">May he restore <placeName type="SN">Isin</placeName> for you -- exercise its queenship!</l>
+      <trailer place="rubric" type="kirugu" />
+      <p n="387" />
+      <l n="387" conf="hi">8th <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="P">
+      <p n="388" />
+      <l n="388" conf="hi"><q who="Ningal">My powers have been alienated from me.</q></l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="389" />
+      <l n="389" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="Q">
+      <p n="390-398" />
+      <l n="390" untranslated="unmatched" />
+      <l n="391" to="398" conf="lo">Alas, storm after storm swept the Land together: the great storm of heaven, the ever-roaring storm, the malicious storm which swept over the Land, the storm which destroyed cities, the storm which destroyed houses, the storm which destroyed cow-pens, the storm which burned sheepfolds, which laid hands on the holy rites, which defiled the weighty counsel, the storm which cut off all that is good from the Land, the storm which pinioned the arms of the black-headed people.</l>
+      <trailer place="rubric" type="kirugu" />
+      <p n="399" />
+      <l n="399" conf="hi">9th <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="R">
+      <p n="400" />
+      <l n="400" conf="hi">The storm which does not respect …….</l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="401" />
+      <l n="401" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="S">
+      <p n="402-410" />
+      <l n="402" conf="med">The storm which knows no mother,</l>
+      <l n="403" conf="med">the storm which knows no father, the storm which knows no wife,</l>
+      <l n="404" conf="med">the storm which knows no child, the storm which knows no sister,</l>
+      <l n="405" conf="med">the storm which knows no brother, the storm which knows no neighbour,</l>
+      <l n="406" conf="med">the storm which knows no female companion, the storm which caused the wife to be abandoned,</l>
+      <l n="407" conf="med">which caused the child to be abandoned, the storm which caused the light in the Land to disappear,</l>
+      <l n="408" conf="med">the storm which swept through, ordered in hate by <divNm>Enlil</divNm> --</l>
+      <l n="409" conf="med">Father <divNm>Nanna</divNm>, may that storm swoop down no more on your city.</l>
+      <l n="410" conf="hi">May your black-headed people see it no more.</l>
+      <p n="411-416" />
+      <l n="411" conf="hi">May that storm, like rain pouring down from heaven, never recur.</l>
+      <l n="412" conf="med">May that storm, which struck down all the black-headed living beings of heaven</l>
+      <l n="413" conf="med">and earth, be entirely destroyed.</l>
+      <l n="414" conf="hi">May the door be closed on it, like the great city-gate at night-time.</l>
+      <l n="415" conf="med">May that storm not be given a place in the reckoning,</l>
+      <l n="416" conf="med">may its record be hung from a nail outside the house of <divNm>Enlil</divNm>.</l>
+      <trailer place="rubric" type="kirugu" />
+      <p n="417" />
+      <l n="417" conf="hi">10th <sumer>kirugu</sumer>.</l>
+    </lg>
+    <lg type="jicgijal" n="T">
+      <p n="418" />
+      <l n="418" conf="hi">Until distant days, other days, future days.</l>
+      <trailer place="rubric" type="jicgijal" />
+      <p n="419" />
+      <l n="419" conf="hi">Its <sumer>ĝišgiĝal</sumer>.</l>
+    </lg>
+    <lg type="kirugu" n="U">
+      <p n="420-426" />
+      <l n="420" conf="med">From distant days when the Land was founded,</l>
+      <l n="421" conf="med">O <divNm>Nanna</divNm>,</l>
+      <l n="422" conf="med">the humble people who lay hold of your feet have brought to you their tears for the silent house, playing music before you.</l>
+      <l n="423" conf="hi">May the black-headed people, cast away from you, make obeisance to you.</l>
+      <l n="424" conf="hi">In your city reduced to ruin mounds may a lament be made to you.</l>
+      <l n="425" conf="hi">O <divNm>Nanna</divNm>, may your restored city be resplendent before you.</l>
+      <l n="426" conf="hi">Like a bright heavenly star may it not be destroyed, may it pass before you.</l>
+      <p n="427-437" />
+      <l n="427" conf="med">The personal deity of a man brings you a greeting gift;</l>
+      <l n="428" conf="med">a supplicant utters prayers to you.</l>
+      <l n="429" conf="med"><divNm>Nanna</divNm>, you who have mercy on the Land,</l>
+      <l n="430" conf="med">Lord <divNm>Ašimbabbar</divNm> -- as concerns him who speaks your heart's desire,</l>
+      <l n="431" conf="med"><divNm>Nanna</divNm>, after you have absolved that man's sin,</l>
+      <l n="432" conf="med">may your heart relent towards him who utters prayers to you.</l>
+      <l n="432" letter="a" conf="hi">The personal deity of this man brings you a present.</l>
+      <l n="433" conf="hi">He looks favourably on the man who stands there with his offering.</l>
+      <l n="434" conf="med"><divNm>Nanna</divNm>, you whose penetrating gaze searches hearts,</l>
+      <l n="435" conf="med">may its people who suffered that evil storm be pure before you.</l>
+      <l n="436" conf="hi">May the hearts of your people who dwell in the Land be pure before you.</l>
+      <l n="437" conf="hi"><divNm>Nanna</divNm>, in your restored city may you be fittingly praised.</l>
+      <trailer place="rubric" type="kirugu" />
+      <p n="438" />
+      <l n="438" conf="hi">11th <sumer>kirugu</sumer>.</l>
+    </lg></book>
+</miqra>

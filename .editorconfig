@@ -1,0 +1,13 @@
+# A small set, so an editor's own defaults don't reformat the repository.
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+[*.cs]
+indent_style = tab
+csharp_new_line_before_open_brace = methods,types
+
+[*.{csproj,slnx,json}]
+indent_style = space
+indent_size = 2

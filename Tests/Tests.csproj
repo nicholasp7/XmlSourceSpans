@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <IsPackable>false</IsPackable>
+    <RootNamespace>XmlSourceSpans.Tests</RootNamespace>
+
+    <!-- xUnit v3 runs the suite as a program of its own. -->
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit.v3" Version="4.0.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.10.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="4.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XmlSourceSpans\XmlSourceSpans.csproj" />
+  </ItemGroup>
+
+  <!-- The corpus travels with the suite, byte for byte. -->
+  <ItemGroup>
+    <None Include="Corpus\**\*.xml;Corpus\SHA256SUMS" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

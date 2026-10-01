@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+.idea/
+TestResults/
+artifacts/
+BenchmarkDotNet.Artifacts/
+*.binlog
+*.nupkg
+*.snupkg

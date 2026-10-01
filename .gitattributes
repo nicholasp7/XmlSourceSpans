@@ -1,0 +1,5 @@
+# Source and docs: LF in the repository and in every checkout.
+* text=auto eol=lf
+
+# The corpus is test data measured to the byte; git never converts it.
+Tests/Corpus/** -text

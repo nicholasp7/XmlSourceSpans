@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/root/">
+    <File Path="README.md" />
+    <File Path="CLAUDE.md" />
+    <File Path="LICENSE" />
+    <File Path="global.json" />
+    <File Path=".editorconfig" />
+    <File Path="docs/design.md" />
+    <File Path="tools/timing.cs" />
+  </Folder>
+  <Project Path="XmlSourceSpans/XmlSourceSpans.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+</Solution>

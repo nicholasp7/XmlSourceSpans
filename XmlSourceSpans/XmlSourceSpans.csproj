@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <VersionPrefix>0.1.0</VersionPrefix>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+
+    <RootNamespace>XmlSourceSpans</RootNamespace>
+    <Authors>Nicholas Petersen</Authors>
+    <Copyright>Copyright (c) 2026 Nicholas Petersen</Copyright>
+    <RepositoryUrl>https://github.com/nicholasp7/XmlSourceSpans</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/nicholasp7/XmlSourceSpans</PackageProjectUrl>
+    <!-- A Release build also writes the package, .nupkg and .snupkg; a Debug build, as the tests run, does not. -->
+    <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <Description>Byte offsets for LINQ to XML: where every element of an XDocument starts and ends in the source it was loaded from, and where its content starts and ends, in bytes and characters, from one ordinary parse.</Description>
+    <PackageTags>xml;linq-to-xml;xdocument;xelement;xmlreader;source-span;offsets;positions</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" PackagePath="\" Pack="True" />
+  </ItemGroup>
+</Project>
